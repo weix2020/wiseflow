@@ -1,5 +1,5 @@
 LLM_API_KEY=""
-LLM_API_BASE="https://api.siliconflow.cn/v1"
+LLM_API_BASE="https://api.siliconflow.cn/v1" #硅基流动
 ZHIPU_API_KEY="" #for the search tool
 PRIMARY_MODEL="deepseek-ai/DeepSeek-R1-Distill-Qwen-14B"
 SECONDARY_MODEL="Qwen/Qwen2.5-14B-Instruct"
